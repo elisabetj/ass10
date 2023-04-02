@@ -1,5 +1,5 @@
 # HBV202GAssignment10
-A very simple implementation of a stack for storinger integer numbers to be tested using JUnit4.
+A very simple implementation of a stack for storing integer numbers to be tested using JUnit4.
 
 This project is a Maven project, i.e. it uses the standard Maven project structure that your IDE hopefully understands when you `git clone` it. The provided Maven POM includes the JUnit4 dependency.
 ### Java Packages:
@@ -22,7 +22,7 @@ but in the usual separate Maven `src` directories:
 ### Main method
 The main method can be run in pom.xml
 
-[License file](src/LICENSE.md)
+[License file](src/LICENSE)
 
 [UML Class diagram](src/site/markdown/design.md)
 
